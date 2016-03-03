@@ -1,0 +1,10 @@
+{
+  "name": "gitbook-plugin-alura-tema",
+  "version": "0.0.1",
+  "description": "Tema do Alura",
+  "main": "index.js",
+  "private": true,
+  "engines": {
+    "gitbook": ">=1.5.0"
+  }
+}
